@@ -1,1 +1,1 @@
-# FreeCodeCamp-Universe-Relational-Database
+# Celestial Bodies Database
